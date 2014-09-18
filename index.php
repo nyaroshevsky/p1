@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+CTYPE html>
 
 <html>
 <head>
@@ -32,7 +32,7 @@
                     <br>
                     Dynamic Web Apps Portfolio</h1>
 
-                <img src='http://p1.nyaroshevsky.me/images/avatar.jpg' alt='Doris Flores'>
+                <img src='http://p1.nyaroshevsky.me/images/avatar.jpg'  alt='Nik Yaroshevsky'>
 
                 <h3>Project 2 Title</h3>
                 View: [link]
@@ -72,5 +72,7 @@
     </form>
 </body>
 </html>
+
+
 
 
