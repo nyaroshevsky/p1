@@ -1,5 +1,3 @@
-ge Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="WebApplication1.WebForm1" %>
-
 <!DOCTYPE html>
 
 <html>
@@ -15,10 +13,6 @@ ge Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="
             margin-bottom: 50px;
         }
 
-        .outer {
-            width:800px; margin:0 auto;
-        }
-
         img {
             display: block;
             margin: auto;
@@ -31,7 +25,7 @@ ge Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="
 </head>
 <body>
     <form id="form1">
-        <div class="outer">
+       
             <div class="container">
 
                 <h1>Nik Yaroshevsky
@@ -73,7 +67,7 @@ ge Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="
                 <p>I was born in Russia after the collapse of the soviet union.</p>
 
             </div>
-        </div>
+        
         <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
     </form>
 </body>
