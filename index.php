@@ -42,7 +42,7 @@
                 <a href="http://p3.nyaroshevsky.me">View: [link]</a>
         <a href="https://github.com/nyaroshevsky/p3">Github: [link] </a> 
         
-        <h3>Project 4 Title</h3>
+        <h3>Project 4 - Coming Soon</h3>
                 View: [link]
         Github: [link]
 
