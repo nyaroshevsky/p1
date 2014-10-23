@@ -20,7 +20,7 @@
         }
     </style>
     <link rel='stylesheet' href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css' type='text/css'>
-	<link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/bootswatch/3.1.1/flatly/bootstrap.min.css" rel="stylesheet">
     <title>Nik Yaroshevsky Portfolio Page</title>
 </head>
 <body>
@@ -35,23 +35,23 @@
                 <img src='http://p1.nyaroshevsky.me/images/avatar.jpg'  alt='Nik Yaroshevsky'>
 
                 <h3>Project 2 Title</h3>
+                 <a href="p2.nyaroshevsky.me">View: [link]</a>
+        <a href="https://github.com/nyaroshevsky/p2">Github: [link] </a> 
+        
+        <h3>Project 3 Title</h3>
+                <a href="p3.nyaroshevsky.me">View: [link]</a>
+        <a href="https://github.com/nyaroshevsky/p3">Github: [link] </a> 
+        
+        <h3>Project 4 Title</h3>
                 View: [link]
-		Github: [link]
-		
-		<h3>Project 3 Title</h3>
-                View: [link]
-		Github: [link]
-		
-		<h3>Project 4 Title</h3>
-                View: [link]
-		Github: [link]
+        Github: [link]
 
 
-		
-		
-		
-		
-		<h2>What I do?</h2>
+        
+        
+        
+        
+        <h2>What I do?</h2>
                 <p>I am a software engineer, my experience is with the full stack of development from high level client side, server web development to back end c++ and java. </p>
 
                 <h2>Why am I taking this course?</h2>
