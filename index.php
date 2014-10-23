@@ -34,11 +34,11 @@
 
                 <img src='http://p1.nyaroshevsky.me/images/avatar.jpg'  alt='Nik Yaroshevsky'>
 
-                <h3>Project 2 Title</h3>
+        <h3>Project 2 - xkcd Password Generator </h3>
                  <a href="http://p2.nyaroshevsky.me">View: [link]</a>
         <a href="https://github.com/nyaroshevsky/p2">Github: [link] </a> 
         
-        <h3>Project 3 Title</h3>
+        <h3>Project 3 - Awesome Tool For A Web Designer</h3>
                 <a href="http://p3.nyaroshevsky.me">View: [link]</a>
         <a href="https://github.com/nyaroshevsky/p3">Github: [link] </a> 
         
